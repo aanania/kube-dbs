@@ -1,0 +1,6 @@
+persistence:
+  size: 20Gi
+
+service:
+  type: NodePort
+
